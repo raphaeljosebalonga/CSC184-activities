@@ -115,7 +115,7 @@ def download_images(thread_name):
         print thread_name, 'finished downloading images from', url
 
 if __name__ == '__main__':
-    root = 'http://python.org'
+    root = 'http://tipidpc.com'
 
     parsed_root = urlparse(root)
 
